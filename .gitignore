@@ -1,4 +1,40 @@
-.Rproj.user
+# R / RStudio
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+.Rprofile
+
+# R project files
+*.Rproj
+
+# Hugo / static site generated files
+public/
+resources/
+resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# Theme example sites and generated outputs
+themes/*/exampleSite/public/
+themes/*/exampleSite/resources/_gen/
+
+# Netlify / build
+.netlify/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# node modules (if used)
+node_modules/
+
+# backup files
+*~
+
+# End of .gitignore
