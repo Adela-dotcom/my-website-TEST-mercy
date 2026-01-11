@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on </title>
+    <link>http://example.com/tags/web/</link>
+    <description>Recent content in Web on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 May 2018 11:39:49 +0200</lastBuildDate>
+    <atom:link href="http://example.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo - amnet</title>
+      <link>http://example.com/blog/2018/05/hugo-amet/</link>
+      <pubDate>Fri, 11 May 2018 11:39:49 +0200</pubDate>
+      <guid>http://example.com/blog/2018/05/hugo-amet/</guid>
+      <description>&lt;p&gt;Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non orci&#xA;commodo lobortis. Proin neque massa, cursus ut, gravida ut, lobortis eget,&#xA;lacus.&lt;/p&gt;&#xA;&lt;p&gt;Sed diam. Praesent fermentum tempor tellus. Nullam tempus. Mauris ac felis&#xA;vel velit tristique imperdiet. Donec at pede.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
